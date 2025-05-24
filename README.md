@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img.jpg" alt="AI Dashboard" style="width: 100%; max-width: 1400px;" />
+  <img src="img.jpg" alt="AI Dashboard" style="width: 100%; max-width: 5000px;" />
 </p>
 <h1 align="center">Hi 👋, I'm Navthik Ram R K</h1>
 <h3 align="center">A passionate ML Engineer and AI enthusiast from India</h3>
