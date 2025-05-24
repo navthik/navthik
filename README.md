@@ -1,7 +1,7 @@
-- 
 <p align="center">
-  <img src="assets/2481551.png" alt="AI Dashboard" width="800"/>
+  <img src="img.jpg" alt="AI Dashboard" style="width: 100%; max-width: 1400px;" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Navthik Ram R K</h1>
 <h3 align="center">A passionate ML Engineer and AI enthusiast from India</h3>
 
