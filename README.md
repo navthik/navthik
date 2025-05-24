@@ -1,9 +1,10 @@
 <p align="center">
   <img src="img.jpg" alt="AI Dashboard" style="width: 100%; max-width: 1400px;" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Navthik Ram R K</h1>
 <h3 align="center">A passionate ML Engineer and AI enthusiast from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=navthik&label=Profile%20views&color=0e75b6&style=flat" alt="navthik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navthik" alt="navthik" /></a> </p>
 
